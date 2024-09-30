@@ -2,9 +2,8 @@
 
 int main()
 {
-    int num;
-    scanf("%d",&num);
-    printf("%d",num);
+    
+    printf("name:prabhavathi.s");
 
     return 0;
 }
